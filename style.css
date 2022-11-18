@@ -1,0 +1,11 @@
+@charset "utf-8";
+/* CSS Document */
+* {
+	font-family: iranyekan;
+}
+
+.asd:hover{
+    background:red!important;
+    border-radius: 13px;
+    transition: .3s;
+}
